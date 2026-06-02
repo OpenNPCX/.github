@@ -27,3 +27,5 @@ All projects, unless stated otherwise via a `LICENSE` file in the repository, ar
 
 ## Contact
 All of our contact information will be available at [https://opennpcx.kxtz.dev/contact](https://opennpcx.kxtz.dev/contact)
+
+<sub>OpenNPCX is a sub-organization owned by [OpenEC](https://github.com/OpenEC-dev)</sub>
